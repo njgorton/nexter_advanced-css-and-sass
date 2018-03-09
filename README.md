@@ -2,3 +2,5 @@
 Nexter project for Udemy's Advanced CSS and Sass course, designed and instructed by Jonas Schmedtmann.
 
 This is the third and final project in Udemy's Advanced CSS and Sass course.
+
+Live site can be seen at: https://nexter-njgorton.surge.sh.
